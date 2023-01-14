@@ -1,3 +1,11 @@
+# Credit
+
+Created following a Udemy tutorial from "React-The Complete Guide (incl Hooks, React Router, Redux)" by Maximilian Schwarzmüller
+
+# Technologies
+
+React, Javascript, HTML, CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,7 +1,3 @@
-# Credit
-
-Created following a Udemy tutorial from "React-The Complete Guide (incl Hooks, React Router, Redux)" by Maximilian Schwarzmüller
-
 # Technologies
 
 React, Javascript, HTML, CSS
